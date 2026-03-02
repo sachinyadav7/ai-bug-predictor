@@ -1,0 +1,1000 @@
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "def divide(a,b): return a/b", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "open('file.txt')", "label": 1}
+{"code": "def add(a,b): return a+b", "label": 0}
+{"code": "x=None; print(x.upper())", "label": 1}
+{"code": "for i in range(5): print(i)", "label": 0}
+{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "x='hello'; print(x.upper())", "label": 0}
+{"code": "arr=[1,2]; print(arr[5])", "label": 1}
