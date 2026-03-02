@@ -1,0 +1,23 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+torch>=2.0.0
+transformers>=4.36.0
+pydantic>=2.0.0
+python-multipart
+scikit-learn
+numpy
+tqdm
+psutil
+tree-sitter>=0.20.0
+tree-sitter-python
+tree-sitter-java
+# For tree-sitter language bindings, we might need specific ones or build them.
+# The plan mentions building them, but for now we'll install the python bindings.
+pandas
+pyarrow
+python-jose[cryptography]
+passlib[bcrypt]
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+requests

@@ -1,0 +1,58 @@
+{
+  "total_bugs_found": 3,
+  "bugs_fixed": 0,
+  "total_scans": 10,
+  "total_processing_time_ms": 7087.610244750977,
+  "recent_scans": [
+    {
+      "project_name": "Project_Alpha_v10",
+      "timestamp": "2026-03-02T19:12:08.719281",
+      "issues_count": 1
+    },
+    {
+      "project_name": "Project_Alpha_v9",
+      "timestamp": "2026-03-02T19:04:57.898038",
+      "issues_count": 1
+    },
+    {
+      "project_name": "Project_Alpha_v8",
+      "timestamp": "2026-02-15T18:41:24.845206",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v7",
+      "timestamp": "2026-02-15T18:40:33.101017",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v6",
+      "timestamp": "2026-02-15T18:39:04.955315",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v5",
+      "timestamp": "2026-02-15T18:38:45.902526",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v4",
+      "timestamp": "2026-02-14T13:19:56.650979",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v3",
+      "timestamp": "2026-02-14T13:19:19.928943",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v2",
+      "timestamp": "2026-02-14T13:19:04.824356",
+      "issues_count": 0
+    },
+    {
+      "project_name": "Project_Alpha_v1",
+      "timestamp": "2026-02-14T13:16:24.596580",
+      "issues_count": 1
+    }
+  ]
+}
