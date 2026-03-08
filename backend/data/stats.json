@@ -1,9 +1,14 @@
 {
   "total_bugs_found": 3,
   "bugs_fixed": 0,
-  "total_scans": 10,
-  "total_processing_time_ms": 7087.610244750977,
+  "total_scans": 11,
+  "total_processing_time_ms": 8692.437171936035,
   "recent_scans": [
+    {
+      "project_name": "Project_Alpha_v11",
+      "timestamp": "2026-03-08T15:48:05.149001",
+      "issues_count": 0
+    },
     {
       "project_name": "Project_Alpha_v10",
       "timestamp": "2026-03-02T19:12:08.719281",
@@ -48,11 +53,6 @@
       "project_name": "Project_Alpha_v2",
       "timestamp": "2026-02-14T13:19:04.824356",
       "issues_count": 0
-    },
-    {
-      "project_name": "Project_Alpha_v1",
-      "timestamp": "2026-02-14T13:16:24.596580",
-      "issues_count": 1
     }
   ]
 }
