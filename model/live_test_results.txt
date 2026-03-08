@@ -1,0 +1,79 @@
+﻿======================================================================
+   BUG PREDICTOR ù LIVE TESTING SUITE
+======================================================================
+
+Loading model from best_model.pt...
+Model loaded on cuda
+Training threshold: 0.6482
+Training best F1: 0.659717051377513
+
+----------------------------------------------------------------------
+INDIVIDUAL TEST RESULTS
+----------------------------------------------------------------------
+python : Traceback 
+(most recent call 
+last):
+At line:1 char:1
++ python live_test.py 
+2>&1 | Out-File 
+-FilePath 
+live_test_results.txt 
+- ...
++ ~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo     
+         : NotSpecifi  
+  ed: (Traceback (mo   
+ st recent call las    
+t)::String) [], Re    
+moteException
+    + FullyQualifiedEr 
+   rorId : NativeComm  
+  andError
+ 
+  File "D:\DL\bug-predi
+ctor\model\live_test.py
+", line 530, in 
+<module>
+    accuracy, 
+precision, recall, f1 
+= run_live_test()
+                       
+               
+~~~~~~~~~~~~~^^
+  File "D:\DL\bug-predi
+ctor\model\live_test.py
+", line 432, in 
+run_live_test
+    print(f"  
+[{status}] #{i+1:2d} | 
+Expected: 
+{expected_str:5s} | 
+Pred: {pred_str:5s} | "
+    ~~~~~^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
+          f"Prob: 
+{prob:.4f} | 
+{code_preview}")
+          ^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
+^
+  File "C:\Users\DELL\A
+ppData\Local\Programs\P
+ython\Python313\Lib\enc
+odings\cp1252.py", 
+line 19, in encode
+    return codecs.charm
+ap_encode(input,self.er
+rors,encoding_table)[0]
+           ~~~~~~~~~~~~
+~~~~~~~~~^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode character 
+'\u2713' in position 
+3: character maps to 
+<undefined>

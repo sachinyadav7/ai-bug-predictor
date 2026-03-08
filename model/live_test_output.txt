@@ -1,0 +1,145 @@
+======================================================================
+   BUG PREDICTOR — LIVE TESTING SUITE
+======================================================================
+
+Loading model from best_model.pt...
+Model loaded on cuda
+Training threshold: 0.9986
+Training best F1: 1.0
+Using threshold: 0.5
+
+----------------------------------------------------------------------
+INDIVIDUAL TEST RESULTS
+----------------------------------------------------------------------
+  [✓ PASS] # 1 | Expected: BUGGY | Pred: BUGGY | Prob: 0.9986 | def get_user_name(user_dict):
+  [✗ FAIL] # 2 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0016 | def find_max(values):
+  [✗ FAIL] # 3 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0018 | def lookup(registry, key):
+  [✗ FAIL] # 4 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def percentage(count, total):
+  [✗ FAIL] # 5 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def avg_score(grades):
+  [✗ FAIL] # 6 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0019 | def normalize(values):
+  [✗ FAIL] # 7 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def get_third(items):
+  [✗ FAIL] # 8 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0019 | def swap_first_last(arr):
+  [✗ FAIL] # 9 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0020 | def parse_csv_row(line):
+  [✗ FAIL] #10 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def count_lines(path):
+  [✗ FAIL] #11 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def append_log(msg):
+  [✗ FAIL] #12 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0016 | def read_binary(path):
+  [✗ FAIL] #13 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0018 | def get_user(name):
+  [✗ FAIL] #14 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0016 | def delete_record(rid):
+  [✗ FAIL] #15 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def calculator(expr):
+  [✗ FAIL] #16 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def run_user_code(code):
+  [✗ FAIL] #17 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0016 | def dynamic_import(module_name):
+  [✗ FAIL] #18 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0018 | def drain_queue(q):
+  [✓ PASS] #19 | Expected: BUGGY | Pred: BUGGY | Prob: 0.9980 | def countdown(n):
+  [✗ FAIL] #20 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def connect_db():
+  [✗ FAIL] #21 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0018 | def get_api_token():
+  [✗ FAIL] #22 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0021 | def safe_parse(data):
+  [✗ FAIL] #23 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0021 | def load_config(path):
+  [✗ FAIL] #24 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0015 | def sum_range(arr, start, end):
+  [✓ PASS] #25 | Expected: BUGGY | Pred: BUGGY | Prob: 0.9920 | def classify(score):
+  [✓ PASS] #26 | Expected: BUGGY | Pred: BUGGY | Prob: 0.9980 | def build_response(data, status):
+  [✗ FAIL] #27 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0015 | def can_vote(age, is_citizen):
+  [✗ FAIL] #28 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0017 | def format_price(price):
+  [✗ FAIL] #29 | Expected: BUGGY | Pred: CLEAN | Prob: 0.0016 | def select_winner(candidates):
+  [✓ PASS] #30 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def read_json_file(path):
+  [✓ PASS] #31 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0015 | def safe_divide(a, b):
+  [✓ PASS] #32 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def safe_average(numbers):
+  [✓ PASS] #33 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def write_data(path, content):
+  [✓ PASS] #34 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0021 | def read_lines(filepath):
+  [✓ PASS] #35 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def copy_file(src, dst):
+  [✓ PASS] #36 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0016 | def validate_email(email):
+  [✓ PASS] #37 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0017 | def validate_age(age):
+  [✓ PASS] #38 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def find_user(name):
+  [✓ PASS] #39 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def insert_record(name, email):
+  [✓ PASS] #40 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def get_nested(data, *keys):
+  [✓ PASS] #41 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0018 | def safe_index(lst, idx, default=None):
+  [✓ PASS] #42 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0016 | def find_pairs(nums, target):
+  [✓ PASS] #43 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0018 | def hash_password(password):
+  [✓ PASS] #44 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0015 | def get_api_key():
+  [✓ PASS] #45 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0019 | def flatten(nested_list):
+  [✓ PASS] #46 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0020 | def chunk_list(lst, size):
+  [✓ PASS] #47 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0018 | def deduplicate(items):
+  [✓ PASS] #48 | Expected: CLEAN | Pred: CLEAN | Prob: 0.0017 | class Stack:
+
+======================================================================
+   OVERALL METRICS
+======================================================================
+  Accuracy:   47.92%  (23/48)
+  Precision:  100.00%
+  Recall:     13.79%
+  F1 Score:   24.24%
+  Threshold:  0.5000
+
+  Confusion Matrix:
+                  Predicted CLEAN  Predicted BUGGY
+  Actual CLEAN          19               0
+  Actual BUGGY          25               4
+
+======================================================================
+   PER-CATEGORY BREAKDOWN
+======================================================================
+  Category                Correct  Total      Acc   Avg Prob
+  ---------------------- -------- ------ -------- ----------
+  bool_error                    0      1      0%     0.0015
+  clean_class                   1      1    100%     0.0017
+  context_manager               3      3    100%     0.0020
+  div_by_zero                   0      3      0%     0.0018
+  empty_catch                   0      2      0%     0.0021
+  error_handling                1      1    100%     0.0019
+  eval_injection                0      3      0%     0.0017
+  hardcoded_secret              0      2      0%     0.0018
+  index_oob                     0      3      0%     0.0019
+  infinite_loop                 1      2     50%     0.4999
+  input_validation              2      2    100%     0.0017
+  missing_return                2      2    100%     0.9950
+  null_deref                    1      3     33%     0.3340
+  off_by_one                    0      1      0%     0.0015
+  param_query                   2      2    100%     0.0019
+  proper_loop                   1      1    100%     0.0016
+  resource_leak                 0      3      0%     0.0017
+  safe_access                   2      2    100%     0.0018
+  safe_compute                  2      2    100%     0.0017
+  secure_func                   2      2    100%     0.0016
+  sql_injection                 0      2      0%     0.0017
+  type_confusion                0      1      0%     0.0017
+  uninitialized_var             0      1      0%     0.0016
+  utility                       3      3    100%     0.0019
+
+======================================================================
+
+======================================================================
+   TEST SET EVALUATION (data/test_full.jsonl)
+======================================================================
+  Test samples: 179
+  Accuracy:     100.00%  (179/179)
+  Precision:    100.00%
+  Recall:       100.00%
+  F1 Score:     100.00%
+
+  Category                Correct  Total      Acc
+  ---------------------- -------- ------ --------
+  context_manager               6      6    100%
+  division_by_zero             10     10    100%
+  empty_catch                   7      7    100%
+  error_handling                5      5    100%
+  eval_injection               12     12    100%
+  hardcoded_secret              9      9    100%
+  incorrect_bool                4      4    100%
+  index_oob                    10     10    100%
+  infinite_loop                10     10    100%
+  input_validation              6      6    100%
+  memory_leak                   4      4    100%
+  missing_return                5      5    100%
+  null_deref                    6      6    100%
+  off_by_one                    6      6    100%
+  param_query                   7      7    100%
+  proper_loop                   4      4    100%
+  race_condition                7      7    100%
+  resource_leak                 9      9    100%
+  safe_access                   6      6    100%
+  safe_compute                  9      9    100%
+  secure_func                   7      7    100%
+  sql_injection                 9      9    100%
+  type_confusion                8      8    100%
+  uninitialized_var             5      5    100%
+  utility_func                  8      8    100%
+======================================================================

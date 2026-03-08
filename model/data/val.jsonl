@@ -1,1000 +1,179 @@
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "def divide(a,b): return a/b", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
-{"code": "open('file.txt')", "label": 1}
-{"code": "def add(a,b): return a+b", "label": 0}
-{"code": "x=None; print(x.upper())", "label": 1}
-{"code": "for i in range(5): print(i)", "label": 0}
-{"code": "with open('file.txt') as f: data=f.read()", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "x='hello'; print(x.upper())", "label": 0}
-{"code": "arr=[1,2]; print(arr[5])", "label": 1}
+{"code": "def validate(path):\n    try:\n        with open(path, \"r\") as f:\n            data = json.load(f)\n        return data\n    except FileNotFoundError:\n        logging.warning(f\"File not found: {path}\")\n        return None\n    except json.JSONDecodeError as e:\n        logging.error(f\"Invalid JSON in {path}: {e}\")\n        return None", "label": 0}
+{"code": "def parse(n):\n    # Bug: fence-post error, creates n+1 elements\n    result = []\n    for i in range(n + 1):\n        result.append(i * 2)\n    return result", "label": 1}
+{"code": "def calculate(items):\n    for item in items:\n        if item > 0:\n            node = item\n    # Bug: node undefined if no item > 0\n    print(node)", "label": 1}
+{"code": "def validate(user_id, status):\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    # Bug: SQL injection via concatenation\n    query = \"UPDATE sessions SET status = '\" + status + \"' WHERE id = \" + str(user_id)\n    conn.execute(query)\n    conn.commit()", "label": 1}
+{"code": "def parse(a, b):\n    # Bug: b could be zero\n    ratio = a / b\n    return round(ratio, 2)", "label": 1}
+{"code": "def fetch(path):\n    try:\n        with open(path, \"r\") as f:\n            data = json.load(f)\n        return data\n    except FileNotFoundError:\n        logging.warning(f\"File not found: {path}\")\n        return None\n    except json.JSONDecodeError as e:\n        logging.error(f\"Invalid JSON in {path}: {e}\")\n        return None", "label": 0}
+{"code": "def fetch():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM orders\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def calculate(data, key, default=None):\n    return data.get(key, default)", "label": 0}
+{"code": "def validate(width, height):\n    area = width * height\n    perimeter = 2 * (width + height)\n    # Bug: perimeter can be 0 if both are 0\n    ratio = area / perimeter\n    return ratio", "label": 1}
+{"code": "def fetch(n):\n    # Bug: recursive without proper base case\n    if n == 0:\n        return 1\n    return n * parse(n)", "label": 1}
+{"code": "def compute(text, start, end):\n    # Bug: off-by-one in substring\n    return text[start:end+2]", "label": 1}
+{"code": "def transform(email):\n    import re\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    if not re.match(pattern, email):\n        raise ValueError(f\"Invalid email: {email}\")\n    return email.lower().strip()", "label": 0}
+{"code": "def execute(email):\n    import re\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    if not re.match(pattern, email):\n        raise ValueError(f\"Invalid email: {email}\")\n    return email.lower().strip()", "label": 0}
+{"code": "def parse(items):\n    found = None\n    for item in items:\n        if item.get(\"active\"):\n            found = item\n    # Bug: found is None if no active item\n    return found[\"name\"]", "label": 1}
+{"code": "def fetch(shared_list, item):\n    # Bug: race condition on shared list\n    if item not in shared_list:\n        shared_list.append(item)", "label": 1}
+{"code": "def process(scores):\n    valid = [s for s in scores if isinstance(s, (int, float))]\n    if not valid:\n        return {\"mean\": 0, \"count\": 0}\n    return {\n        \"mean\": sum(valid) / len(valid),\n        \"count\": len(valid),\n        \"min\": min(valid),\n        \"max\": max(valid)\n    }", "label": 0}
+{"code": "def transform(email):\n    import sqlite3\n    db = sqlite3.connect(\"app.db\")\n    # Bug: SQL injection through format string\n    sql = \"DELETE FROM sessions WHERE email = '%s'\" % email\n    db.execute(sql)\n    db.commit()", "label": 1}
+{"code": "def compute(condition):\n    if condition:\n        num = \"initialized\"\n    # Bug: num not defined if condition is False\n    return num", "label": 1}
+{"code": "def do_work():\n    num = 0\n    # Bug: counter never reaches exit condition\n    while data < 100:\n        print(node)\n        # missing increment", "label": 1}
+{"code": "def fetch(scores):\n    passed = [s for s in scores if s >= 60]\n    failed = [s for s in scores if s < 60]\n    # Bug: len(failed) could be 0\n    fail_ratio = len(failed) / len(passed)\n    return fail_ratio", "label": 1}
+{"code": "def compute(scores):\n    valid = [s for s in scores if isinstance(s, (int, float))]\n    if not valid:\n        return {\"mean\": 0, \"count\": 0}\n    return {\n        \"mean\": sum(valid) / len(valid),\n        \"count\": len(valid),\n        \"min\": min(valid),\n        \"max\": max(valid)\n    }", "label": 0}
+{"code": "def parse(timestamp_str, fmt=\"%Y-%m-%d %H:%M:%S\"):\n    from datetime import datetime\n    try:\n        return datetime.strptime(timestamp_str, fmt)\n    except ValueError:\n        return None", "label": 0}
+{"code": "def validate(user_id, new_status):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"UPDATE orders SET status = ? WHERE id = ?\",\n            (new_status, user_id)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def run():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM products\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def do_work(db_path, query, params=None):\n    import sqlite3\n    with sqlite3.connect(db_path) as conn:\n        cursor = conn.cursor()\n        cursor.execute(query, params or ())\n        return cursor.fetchall()", "label": 0}
+{"code": "def run():\n    import os\n    api_key = os.environ.get(\"API_KEY\")\n    if not api_key:\n        raise EnvironmentError(\"API_KEY not set\")\n    return api_key", "label": 0}
+{"code": "def check(items):\n    result = []\n    for i, item in enumerate(items):\n        if item.get(\"active\"):\n            result.append((i, item))\n    return result", "label": 0}
+{"code": "def handle(items):\n    if not items:\n        return []\n    try:\n        result = sorted(items, key=lambda x: x.get(\"priority\", 0))\n        return result\n    except (TypeError, AttributeError) as e:\n        logging.error(f\"Sort failed: {e}\")\n        return items", "label": 0}
+{"code": "def process(records):\n    result = {}\n    for r in records:\n        key = r.get(\"id\")\n        result[key] = r\n    # Bug: forgot to return result", "label": 1}
+{"code": "def fetch(age):\n    if not isinstance(age, int):\n        raise TypeError(\"Age must be an integer\")\n    if age < 0 or age > 150:\n        raise ValueError(f\"Invalid age: {age}\")\n    return age", "label": 0}
+{"code": "def process(numbers, target):\n    for i in range(len(numbers)):\n        for j in range(i + 1, len(numbers)):\n            if numbers[i] + numbers[j] == target:\n                return (i, j)\n    return None", "label": 0}
+{"code": "def process(text, max_len=100):\n    if len(text) <= max_len:\n        return text\n    return text[:max_len - 3] + \"...\"", "label": 0}
+{"code": "def do_work(text, delimiter=\",\"):\n    parts = text.split(delimiter)\n    return {\n        \"first\": parts[0] if len(parts) > 0 else \"\",\n        \"second\": parts[1] if len(parts) > 1 else \"\",\n        \"rest\": parts[2:] if len(parts) > 2 else []\n    }", "label": 0}
+{"code": "def run(user_id, new_status):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"UPDATE products SET status = ? WHERE id = ?\",\n            (new_status, user_id)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def validate(password):\n    if len(password) < 8:\n        return False, \"Password must be at least 8 characters\"\n    if not any(c.isupper() for c in password):\n        return False, \"Must contain uppercase letter\"\n    if not any(c.isdigit() for c in password):\n        return False, \"Must contain a digit\"\n    return True, \"Password is strong\"", "label": 0}
+{"code": "def parse(data):\n    if not isinstance(data, dict):\n        raise TypeError(f\"Expected dict, got {type(data).__name__}\")\n    required = [\"name\", \"email\", \"age\"]\n    missing = [k for k in required if k not in data]\n    if missing:\n        raise ValueError(f\"Missing fields: {missing}\")\n    return True", "label": 0}
+{"code": "def check(condition):\n    if condition:\n        count = \"initialized\"\n    # Bug: count not defined if condition is False\n    return count", "label": 1}
+{"code": "def handle(items):\n    total = 0\n    for item in items:\n        # Bug: item might be string, not number\n        total += item\n    return total", "label": 1}
+{"code": "def transform(username):\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    # Bug: SQL injection via string formatting\n    query = f\"SELECT * FROM users WHERE name = '{username}'\"\n    return conn.execute(query).fetchall()", "label": 1}
+{"code": "def execute(url):\n    try:\n        response = requests.get(url, timeout=5)\n        return response.json()\n    except Exception:\n        # Bug: swallowing exception without logging\n        return None", "label": 1}
+{"code": "def parse(items):\n    result = []\n    for i, item in enumerate(items):\n        if item.get(\"active\"):\n            result.append((i, item))\n    return result", "label": 0}
+{"code": "def process(items, batch_size=10):\n    for i in range(0, len(items), batch_size):\n        yield items[i:i + batch_size]", "label": 0}
+{"code": "def validate(x, low, high):\n    # Bug: should be 'and', not 'or'\n    if x >= low or x <= high:\n        return True  # always True\n    return False", "label": 1}
+{"code": "class TransformManager:\n    def __init__(self):\n        self.cache = {}\n    \n    def process(self, key, data):\n        # Bug: cache grows unbounded, no eviction\n        self.cache[key] = data\n        return self.cache[key]", "label": 1}
+{"code": "def compute(items):\n    for item in items:\n        if item > 0:\n            x = item\n    # Bug: x undefined if no item > 0\n    print(x)", "label": 1}
+{"code": "def do_work(data):\n    if not isinstance(data, dict):\n        raise TypeError(f\"Expected dict, got {type(data).__name__}\")\n    required = [\"name\", \"email\", \"age\"]\n    missing = [k for k in required if k not in data]\n    if missing:\n        raise ValueError(f\"Missing fields: {missing}\")\n    return True", "label": 0}
+{"code": "def check(queue):\n    # Bug: while True with no guaranteed break\n    while True:\n        item = queue.get()\n        if item is None:\n            continue\n        process(item)", "label": 1}
+{"code": "def handle(queue):\n    # Bug: while True with no guaranteed break\n    while True:\n        item = queue.get()\n        if item is None:\n            continue\n        process(item)", "label": 1}
+{"code": "def check(items, index):\n    if 0 <= index < len(items):\n        return items[index]\n    return None", "label": 0}
+{"code": "def handle(matrix):\n    rows = len(matrix)\n    cols = len(matrix[0])\n    # Bug: off-by-one, should be range(rows)\n    for i in range(rows + 1):\n        for j in range(cols):\n            matrix[i][j] *= 2\n    return matrix", "label": 1}
+{"code": "def execute(node):\n    result = None\n    if node > 10:\n        result = \"node_processed\"\n    # Bug: result may be None if node <= 10\n    return result.strip()", "label": 1}
+{"code": "def process():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM products\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def run(items):\n    for item in items:\n        try:\n            process(item)\n        except Exception as e:\n            # Bug: error swallowed, loop continues silently\n            continue", "label": 1}
+{"code": "def handle(source, dest):\n    with open(source, \"rb\") as src:\n        with open(dest, \"wb\") as dst:\n            while chunk := src.read(8192):\n                dst.write(chunk)\n    return True", "label": 0}
+{"code": "def calculate(username):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        cursor = conn.cursor()\n        cursor.execute(\n            \"SELECT * FROM users WHERE name = ?\",\n            (username,)\n        )\n        return cursor.fetchone()", "label": 0}
+{"code": "def execute(queue):\n    # Bug: while True with no guaranteed break\n    while True:\n        item = queue.get()\n        if item is None:\n            continue\n        process(item)", "label": 1}
+{"code": "def process(numerator, denominator):\n    try:\n        result = numerator / denominator\n    except ZeroDivisionError:\n        return float(\"inf\")\n    return result", "label": 0}
+{"code": "def compute(password):\n    import hashlib\n    import secrets\n    salt = secrets.token_hex(16)\n    hashed = hashlib.pbkdf2_hmac(\n        \"sha256\", password.encode(), salt.encode(), 100000\n    )\n    return salt + \":\" + hashed.hex()", "label": 0}
+{"code": "def handle(formula, variables):\n    # Bug: eval with user formula\n    for k, v in variables.items():\n        locals()[k] = v\n    return eval(formula)", "label": 1}
+{"code": "def transform(token):\n    import hmac\n    import hashlib\n    secret = os.environ.get(\"SECRET_KEY\", \"\")\n    signature = hmac.new(\n        secret.encode(), token.encode(), hashlib.sha256\n    ).hexdigest()\n    return signature", "label": 0}
+{"code": "def execute(matrix):\n    rows = len(matrix)\n    cols = len(matrix[0])\n    # Bug: off-by-one, should be range(rows)\n    for i in range(rows + 1):\n        for j in range(cols):\n            matrix[i][j] *= 2\n    return matrix", "label": 1}
+{"code": "def transform(text):\n    parts = text.split(\",\")\n    # Bug: assumes at least 3 parts\n    name = parts[0]\n    age = parts[1]\n    email = parts[2]\n    return name, age, email", "label": 1}
+{"code": "def parse(items):\n    if not items:\n        return []\n    try:\n        result = sorted(items, key=lambda x: x.get(\"priority\", 0))\n        return result\n    except (TypeError, AttributeError) as e:\n        logging.error(f\"Sort failed: {e}\")\n        return items", "label": 0}
+{"code": "def validate(user):\n    # Bug: negation logic error\n    if not user.is_active and user.is_verified:\n        # Intended: active AND verified\n        grant_access(user)", "label": 1}
+{"code": "def do_work():\n    # Bug: secret token in source code\n    JWT_SECRET = \"my-super-secret-jwt-key-12345\"\n    token = jwt.encode({\"user\": \"admin\"}, JWT_SECRET)\n    return token", "label": 1}
+{"code": "def validate(mode):\n    if mode == \"fast\":\n        num = 100\n    elif mode == \"slow\":\n        num = 10\n    # Bug: num not set for other modes\n    return num * 2", "label": 1}
+{"code": "def compute(x):\n    result = None\n    if x > 10:\n        result = \"x_processed\"\n    # Bug: result may be None if x <= 10\n    return result.strip()", "label": 1}
+{"code": "def fetch(items):\n    # Bug: accessing index that may not exist\n    first = items[0]\n    last = items[-1]\n    middle = items[len(items) // 2 + 1]\n    return first, middle, last", "label": 1}
+{"code": "def handle(temp):\n    # Bug: overlapping conditions, unreachable else\n    if temp > 30:\n        return \"hot\"\n    elif temp > 20:\n        return \"warm\"\n    elif temp > 25:  # Bug: unreachable, already caught by > 20\n        return \"pleasant\"\n    return \"cold\"", "label": 1}
+{"code": "def validate(path, data):\n    with open(path, \"w\", encoding=\"utf-8\") as f:\n        json.dump(data, f, indent=2)\n    return True", "label": 0}
+{"code": "def validate(data):\n    # Bug: empty list check missing\n    return data[0] + data[1]", "label": 1}
+{"code": "def validate(numbers, target):\n    for i in range(len(numbers)):\n        for j in range(i + 1, len(numbers)):\n            if numbers[i] + numbers[j] == target:\n                return (i, j)\n    return None", "label": 0}
+{"code": "def do_work(text, start, end):\n    # Bug: off-by-one in substring\n    return text[start:end+2]", "label": 1}
+{"code": "def do_work(scores):\n    valid = [s for s in scores if isinstance(s, (int, float))]\n    if not valid:\n        return {\"mean\": 0, \"count\": 0}\n    return {\n        \"mean\": sum(valid) / len(valid),\n        \"count\": len(valid),\n        \"min\": min(valid),\n        \"max\": max(valid)\n    }", "label": 0}
+{"code": "def check():\n    # Bug: hardcoded database credentials\n    db_config = {\n        \"host\": \"production-db.internal\",\n        \"user\": \"root\",\n        \"password\": \"admin123\",\n        \"database\": \"prod_data\"\n    }\n    return connect(db_config)", "label": 1}
+{"code": "def validate(user_id, new_status):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"UPDATE products SET status = ? WHERE id = ?\",\n            (new_status, user_id)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def process(data, predicate, max_iter=1000):\n    count = 0\n    while not predicate(data) and count < max_iter:\n        data = transform(data)\n        count += 1\n    return data, count", "label": 0}
+{"code": "def handle(data):\n    try:\n        result = json.loads(data)\n        return result\n    except:\n        # Bug: silently catching parse errors\n        return {}", "label": 1}
+{"code": "def parse(config):\n    z = config.get(\"setting\")\n    # Bug: z could be None\n    return z.lower()", "label": 1}
+{"code": "def validate(matrix):\n    rows = len(matrix)\n    cols = len(matrix[0])\n    # Bug: off-by-one, should be range(rows)\n    for i in range(rows + 1):\n        for j in range(cols):\n            matrix[i][j] *= 2\n    return matrix", "label": 1}
+{"code": "def calculate(user):\n    # Bug: negation logic error\n    if not user.is_active and user.is_verified:\n        # Intended: active AND verified\n        grant_access(user)", "label": 1}
+{"code": "def process():\n    # Bug: hardcoded database credentials\n    db_config = {\n        \"host\": \"production-db.internal\",\n        \"user\": \"root\",\n        \"password\": \"qwerty\",\n        \"database\": \"prod_data\"\n    }\n    return connect(db_config)", "label": 1}
+{"code": "def fetch(text):\n    words = text.split()\n    freq = {}\n    for word in words:\n        word = word.lower().strip(\".,!?\")\n        freq[word] = freq.get(word, 0) + 1\n    return sorted(freq.items(), key=lambda x: x[1], reverse=True)", "label": 0}
+{"code": "def fetch(filename):\n    # Bug: file opened but not closed in all paths\n    f = open(filename, \"w\")\n    f.write(\"header\\n\")\n    if not filename.endswith(\".csv\"):\n        return False\n    f.write(\"data\\n\")\n    f.close()\n    return True", "label": 1}
+{"code": "def handle(db_path, query, params=None):\n    import sqlite3\n    with sqlite3.connect(db_path) as conn:\n        cursor = conn.cursor()\n        cursor.execute(query, params or ())\n        return cursor.fetchall()", "label": 0}
+{"code": "def run(text, max_len=100):\n    if len(text) <= max_len:\n        return text\n    return text[:max_len - 3] + \"...\"", "label": 0}
+{"code": "def do_work(config):\n    port = config[\"port\"]\n    # Bug: port is string from config, comparison fails\n    if port > 8000:\n        return \"high port\"\n    return \"standard port\"", "label": 1}
+{"code": "def run(filename, content):\n    import os\n    # Bug: TOCTOU race condition\n    if not os.path.exists(filename):\n        with open(filename, \"w\") as f:\n            f.write(content)", "label": 1}
+{"code": "def transform(config):\n    port = config[\"port\"]\n    # Bug: port is string from config, comparison fails\n    if port > 8000:\n        return \"high port\"\n    return \"standard port\"", "label": 1}
+{"code": "def process(path):\n    # Bug: file handle never closed\n    f = open(path, \"r\")\n    data = f.read()\n    return data", "label": 1}
+{"code": "def do_work(username):\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    # Bug: SQL injection via string formatting\n    query = f\"SELECT * FROM users WHERE name = '{username}'\"\n    return conn.execute(query).fetchall()", "label": 1}
+{"code": "def validate(search_term):\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    # Bug: unsanitized user input in query\n    query = \"SELECT * FROM sessions WHERE description LIKE '%\" + search_term + \"%'\"\n    return conn.execute(query).fetchall()", "label": 1}
+{"code": "def compute(path):\n    try:\n        with open(path) as f:\n            return json.load(f)\n    except:\n        # Bug: bare except silences all errors\n        pass", "label": 1}
+{"code": "def process(queue):\n    # Bug: while True with no guaranteed break\n    while True:\n        item = queue.get()\n        if item is None:\n            continue\n        process(item)", "label": 1}
+{"code": "def run(user_input):\n    import html\n    sanitized = html.escape(user_input)\n    return sanitized", "label": 0}
+{"code": "def calculate(temp):\n    # Bug: overlapping conditions, unreachable else\n    if temp > 30:\n        return \"hot\"\n    elif temp > 20:\n        return \"warm\"\n    elif temp > 25:  # Bug: unreachable, already caught by > 20\n        return \"pleasant\"\n    return \"cold\"", "label": 1}
+{"code": "def compute(numerator, denominator):\n    try:\n        result = numerator / denominator\n    except ZeroDivisionError:\n        return float(\"inf\")\n    return result", "label": 0}
+{"code": "def parse(text):\n    parts = text.split(\",\")\n    # Bug: assumes at least 3 parts\n    name = parts[0]\n    age = parts[1]\n    email = parts[2]\n    return name, age, email", "label": 1}
+{"code": "def transform(url):\n    import urllib.request\n    # Bug: response not closed\n    response = urllib.request.urlopen(url)\n    html = response.read()\n    return html.decode()", "label": 1}
+{"code": "def do_work(condition):\n    if condition:\n        value = \"initialized\"\n    # Bug: value not defined if condition is False\n    return value", "label": 1}
+{"code": "def check(records):\n    result = {}\n    for r in records:\n        key = r.get(\"id\")\n        result[key] = r\n    # Bug: forgot to return result", "label": 1}
+{"code": "def calculate(items):\n    for item in items:\n        try:\n            process(item)\n        except Exception as e:\n            # Bug: error swallowed, loop continues silently\n            continue", "label": 1}
+{"code": "def check():\n    # Bug: hardcoded credentials\n    username = \"admin\"\n    password = \"password\"\n    return authenticate(username, password)", "label": 1}
+{"code": "def compute(matrix, row, col):\n    if not matrix or row < 0 or row >= len(matrix):\n        return None\n    if col < 0 or col >= len(matrix[row]):\n        return None\n    return matrix[row][col]", "label": 0}
+{"code": "def handle(username):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        cursor = conn.cursor()\n        cursor.execute(\n            \"SELECT * FROM orders WHERE name = ?\",\n            (username,)\n        )\n        return cursor.fetchone()", "label": 0}
+{"code": "def transform():\n    results = []\n    while True:\n        # Bug: list grows forever\n        data = fetch_data()\n        results.append(data)\n        if len(results) > 1000000:\n            break", "label": 1}
+{"code": "def check(flag):\n    if flag:\n        value = compute_value()\n        return value\n    # Bug: no return when flag is False (returns None)", "label": 1}
+{"code": "def compute(username):\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    # Bug: SQL injection via string formatting\n    query = f\"SELECT * FROM accounts WHERE name = '{username}'\"\n    return conn.execute(query).fetchall()", "label": 1}
+{"code": "def check(filename, content):\n    import os\n    # Bug: TOCTOU race condition\n    if not os.path.exists(filename):\n        with open(filename, \"w\") as f:\n            f.write(content)", "label": 1}
+{"code": "def run(url):\n    try:\n        response = requests.get(url, timeout=5)\n        return response.json()\n    except Exception:\n        # Bug: swallowing exception without logging\n        return None", "label": 1}
+{"code": "def process(condition):\n    if condition:\n        z = \"initialized\"\n    # Bug: z not defined if condition is False\n    return z", "label": 1}
+{"code": "def run(source, dest):\n    with open(source, \"rb\") as src:\n        with open(dest, \"wb\") as dst:\n            while chunk := src.read(8192):\n                dst.write(chunk)\n    return True", "label": 0}
+{"code": "def do_work():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM products\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def do_work(queue):\n    # Bug: while True with no guaranteed break\n    while True:\n        item = queue.get()\n        if item is None:\n            continue\n        process(item)", "label": 1}
+{"code": "def transform(username):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        cursor = conn.cursor()\n        cursor.execute(\n            \"SELECT * FROM sessions WHERE name = ?\",\n            (username,)\n        )\n        return cursor.fetchone()", "label": 0}
+{"code": "def validate(numerator, denominator):\n    try:\n        result = numerator / denominator\n    except ZeroDivisionError:\n        return float(\"inf\")\n    return result", "label": 0}
+{"code": "def run(flag):\n    if flag:\n        value = compute_value()\n        return value\n    # Bug: no return when flag is False (returns None)", "label": 1}
+{"code": "def check(numbers, target):\n    for i in range(len(numbers)):\n        for j in range(i + 1, len(numbers)):\n            if numbers[i] + numbers[j] == target:\n                return (i, j)\n    return None", "label": 0}
+{"code": "def run(data):\n    i = 0\n    # Bug: i only increments sometimes\n    while i < len(data):\n        if data[i] == \"skip\":\n            continue\n        print(data[i])\n        i += 1", "label": 1}
+{"code": "def compute(items):\n    for item in items:\n        if item > 0:\n            record = item\n    # Bug: record undefined if no item > 0\n    print(record)", "label": 1}
+{"code": "def calculate(items, batch_size=10):\n    for i in range(0, len(items), batch_size):\n        yield items[i:i + batch_size]", "label": 0}
+{"code": "def run(db_path, query, params=None):\n    import sqlite3\n    with sqlite3.connect(db_path) as conn:\n        cursor = conn.cursor()\n        cursor.execute(query, params or ())\n        return cursor.fetchall()", "label": 0}
+{"code": "def validate():\n    # Bug: hardcoded API key\n    api_key = \"sk-98c552b1efa49d0a630d9355\"\n    headers = {\"Authorization\": f\"Bearer {api_key}\"}\n    return requests.get(\"/api/data\", headers=headers)", "label": 1}
+{"code": "def calculate(mode):\n    if mode == \"fast\":\n        count = 100\n    elif mode == \"slow\":\n        count = 10\n    # Bug: count not set for other modes\n    return count * 2", "label": 1}
+{"code": "def validate(a, b, operation):\n    if operation == \"add\":\n        return a + b\n    elif operation == \"sub\":\n        return a - b\n    elif operation == \"mul\":\n        return a * b\n    # Bug: missing return for unknown operation", "label": 1}
+{"code": "def calculate():\n    # Bug: hardcoded credentials\n    username = \"admin\"\n    password = \"admin123\"\n    return authenticate(username, password)", "label": 1}
+{"code": "def validate(name, email, role):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"INSERT INTO orders (name, email, role) VALUES (?, ?, ?)\",\n            (name, email, role)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def do_work(total):\n    result = None\n    if total > 10:\n        result = \"total_processed\"\n    # Bug: result may be None if total <= 10\n    return result.strip()", "label": 1}
+{"code": "def compute(paths):\n    handles = []\n    for p in paths:\n        # Bug: handles never closed\n        handles.append(open(p, \"r\"))\n    contents = [h.read() for h in handles]\n    return contents", "label": 1}
+{"code": "def check(lock, shared_data, value):\n    import threading\n    with lock:\n        shared_data.append(value)\n        return len(shared_data)", "label": 0}
+{"code": "def fetch(text, delimiter=\",\"):\n    parts = text.split(delimiter)\n    return {\n        \"first\": parts[0] if len(parts) > 0 else \"\",\n        \"second\": parts[1] if len(parts) > 1 else \"\",\n        \"rest\": parts[2:] if len(parts) > 2 else []\n    }", "label": 0}
+{"code": "def fetch(a, b):\n    # Bug: comparing incompatible types\n    if a == b:\n        return True\n    result = a + b  # might fail if types differ\n    return result", "label": 1}
+{"code": "def parse(expression):\n    # Bug: eval on user-controlled expression\n    try:\n        value = eval(expression)\n        return {\"result\": value}\n    except Exception:\n        return {\"error\": \"invalid\"}", "label": 1}
+{"code": "def fetch(config):\n    temp = config.get(\"setting\")\n    # Bug: temp could be None\n    return temp.lower()", "label": 1}
+{"code": "def do_work(data):\n    i = 0\n    # Bug: i only increments sometimes\n    while i < len(data):\n        if data[i] == \"skip\":\n            continue\n        print(data[i])\n        i += 1", "label": 1}
+{"code": "def handle(numerator, denominator):\n    try:\n        result = numerator / denominator\n    except ZeroDivisionError:\n        return float(\"inf\")\n    return result", "label": 0}
+{"code": "def check(user):\n    # Bug: negation logic error\n    if not user.is_active and user.is_verified:\n        # Intended: active AND verified\n        grant_access(user)", "label": 1}
+{"code": "def transform(x, low, high):\n    # Bug: should be 'and', not 'or'\n    if x >= low or x <= high:\n        return True  # always True\n    return False", "label": 1}
+{"code": "def calculate(filename, content):\n    import os\n    # Bug: TOCTOU race condition\n    if not os.path.exists(filename):\n        with open(filename, \"w\") as f:\n            f.write(content)", "label": 1}
+{"code": "def calculate(shared_list, item):\n    # Bug: race condition on shared list\n    if item not in shared_list:\n        shared_list.append(item)", "label": 1}
+{"code": "def parse(shared_list, item):\n    # Bug: race condition on shared list\n    if item not in shared_list:\n        shared_list.append(item)", "label": 1}
+{"code": "def calculate(password):\n    if len(password) < 8:\n        return False, \"Password must be at least 8 characters\"\n    if not any(c.isupper() for c in password):\n        return False, \"Must contain uppercase letter\"\n    if not any(c.isdigit() for c in password):\n        return False, \"Must contain a digit\"\n    return True, \"Password is strong\"", "label": 0}
+{"code": "def handle(shared_list, item):\n    # Bug: race condition on shared list\n    if item not in shared_list:\n        shared_list.append(item)", "label": 1}
+{"code": "def compute(code_str):\n    # Bug: exec allows arbitrary code execution\n    namespace = {}\n    exec(code_str, namespace)\n    return namespace.get(\"output\")", "label": 1}
+{"code": "def validate(mapping):\n    node = mapping.get(\"endpoint\")\n    # Bug: missing None check before calling .format()\n    url = node.format(id=42)\n    return url", "label": 1}
+{"code": "def validate(age):\n    if not isinstance(age, int):\n        raise TypeError(\"Age must be an integer\")\n    if age < 0 or age > 150:\n        raise ValueError(f\"Invalid age: {age}\")\n    return age", "label": 0}
+{"code": "def transform(name, email, role):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"INSERT INTO sessions (name, email, role) VALUES (?, ?, ?)\",\n            (name, email, role)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def parse(username):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        cursor = conn.cursor()\n        cursor.execute(\n            \"SELECT * FROM orders WHERE name = ?\",\n            (username,)\n        )\n        return cursor.fetchone()", "label": 0}
+{"code": "def run(data):\n    try:\n        result = json.loads(data)\n        return result\n    except:\n        # Bug: silently catching parse errors\n        return {}", "label": 1}
+{"code": "def fetch(data, predicate, max_iter=1000):\n    count = 0\n    while not predicate(data) and count < max_iter:\n        data = transform(data)\n        count += 1\n    return data, count", "label": 0}
+{"code": "def handle(items, batch_size=10):\n    for i in range(0, len(items), batch_size):\n        yield items[i:i + batch_size]", "label": 0}
+{"code": "def compute(text, delimiter=\",\"):\n    parts = text.split(delimiter)\n    return {\n        \"first\": parts[0] if len(parts) > 0 else \"\",\n        \"second\": parts[1] if len(parts) > 1 else \"\",\n        \"rest\": parts[2:] if len(parts) > 2 else []\n    }", "label": 0}
+{"code": "def run(filename):\n    # Bug: file opened but not closed in all paths\n    f = open(filename, \"w\")\n    f.write(\"header\\n\")\n    if not filename.endswith(\".csv\"):\n        return False\n    f.write(\"data\\n\")\n    f.close()\n    return True", "label": 1}
+{"code": "def do_work(url):\n    import urllib.request\n    # Bug: response not closed\n    response = urllib.request.urlopen(url)\n    html = response.read()\n    return html.decode()", "label": 1}
+{"code": "def check(d1, d2):\n    result = d1.copy()\n    result.update(d2)\n    return result", "label": 0}
+{"code": "def check(matrix):\n    n = len(matrix)\n    # Bug: off-by-one in diagonal traversal\n    diagonal = []\n    for i in range(n + 1):\n        diagonal.append(matrix[i][i])\n    return diagonal", "label": 1}
+{"code": "def compute(items):\n    for item in items:\n        if item > 0:\n            obj = item\n    # Bug: obj undefined if no item > 0\n    print(obj)", "label": 1}
+{"code": "def compute(data_list):\n    result = None\n    for d in data_list:\n        if d.startswith(\"key=\"):\n            result = d.split(\"=\")[1]\n    # Bug: result could still be None\n    print(result.upper())", "label": 1}
+{"code": "def run(path):\n    try:\n        with open(path, \"r\") as f:\n            data = json.load(f)\n        return data\n    except FileNotFoundError:\n        logging.warning(f\"File not found: {path}\")\n        return None\n    except json.JSONDecodeError as e:\n        logging.error(f\"Invalid JSON in {path}: {e}\")\n        return None", "label": 0}
+{"code": "def transform(items):\n    if not items:\n        return []\n    try:\n        result = sorted(items, key=lambda x: x.get(\"priority\", 0))\n        return result\n    except (TypeError, AttributeError) as e:\n        logging.error(f\"Sort failed: {e}\")\n        return items", "label": 0}
+{"code": "def compute():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM users\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def transform(numbers, target):\n    for i in range(len(numbers)):\n        for j in range(i + 1, len(numbers)):\n            if numbers[i] + numbers[j] == target:\n                return (i, j)\n    return None", "label": 0}
+{"code": "def run(url):\n    import urllib.request\n    # Bug: response not closed\n    response = urllib.request.urlopen(url)\n    html = response.read()\n    return html.decode()", "label": 1}
+{"code": "def run(items):\n    if not items:\n        return None, None\n    return min(items), max(items)", "label": 0}
+{"code": "def do_work(email):\n    import re\n    pattern = r\"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\\.[a-zA-Z0-9-.]+$\"\n    if not re.match(pattern, email):\n        raise ValueError(f\"Invalid email: {email}\")\n    return email.lower().strip()", "label": 0}
+{"code": "def fetch():\n    # Bug: hardcoded API key\n    api_key = \"sk-91ff9ff60533d68e91059329\"\n    headers = {\"Authorization\": f\"Bearer {api_key}\"}\n    return requests.get(\"/login\", headers=headers)", "label": 1}
+{"code": "def do_work(flag):\n    if flag:\n        value = compute_value()\n        return value\n    # Bug: no return when flag is False (returns None)", "label": 1}
+{"code": "def process(name, email, role):\n    import sqlite3\n    with sqlite3.connect(\"app.db\") as conn:\n        conn.execute(\n            \"INSERT INTO products (name, email, role) VALUES (?, ?, ?)\",\n            (name, email, role)\n        )\n        conn.commit()\n    return True", "label": 0}
+{"code": "def validate(age, has_license):\n    # Bug: should be 'and' not 'or'\n    if age >= 18 or has_license:\n        return \"can_drive\"\n    return \"cannot_drive\"", "label": 1}
+{"code": "def execute(data, predicate, max_iter=1000):\n    count = 0\n    while not predicate(data) and count < max_iter:\n        data = transform(data)\n        count += 1\n    return data, count", "label": 0}
+{"code": "def compute(data, schema):\n    errors = []\n    for field, field_type in schema.items():\n        if field not in data:\n            errors.append(f\"Missing: {field}\")\n        elif not isinstance(data[field], field_type):\n            errors.append(f\"{field}: expected {field_type.__name__}\")\n    if errors:\n        raise ValueError(f\"Validation errors: {errors}\")\n    return data", "label": 0}
+{"code": "def handle(condition):\n    if condition:\n        temp = \"initialized\"\n    # Bug: temp not defined if condition is False\n    return temp", "label": 1}
+{"code": "def handle(n):\n    # Bug: recursive without proper base case\n    if n == 0:\n        return 1\n    return n * do_work(n)", "label": 1}
+{"code": "def do_work(numbers, target):\n    for i in range(len(numbers)):\n        for j in range(i + 1, len(numbers)):\n            if numbers[i] + numbers[j] == target:\n                return (i, j)\n    return None", "label": 0}
+{"code": "def execute():\n    # Bug: hardcoded API key\n    api_key = \"sk-fe6916f79a6b1d777b6d615a\"\n    headers = {\"Authorization\": f\"Bearer {api_key}\"}\n    return requests.get(\"/admin\", headers=headers)", "label": 1}
+{"code": "def transform():\n    # Bug: connection not closed on error\n    import sqlite3\n    conn = sqlite3.connect(\"app.db\")\n    cursor = conn.cursor()\n    cursor.execute(\"SELECT * FROM orders\")\n    results = cursor.fetchall()\n    return results", "label": 1}
+{"code": "def validate(data, predicate, max_iter=1000):\n    count = 0\n    while not predicate(data) and count < max_iter:\n        data = transform(data)\n        count += 1\n    return data, count", "label": 0}
+{"code": "def calculate(text):\n    parts = text.split(\",\")\n    # Bug: assumes at least 3 parts\n    name = parts[0]\n    age = parts[1]\n    email = parts[2]\n    return name, age, email", "label": 1}
+{"code": "def check(buffer, index):\n    # Bug: no bounds checking on index\n    return buffer[index]", "label": 1}

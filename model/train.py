@@ -32,6 +32,18 @@ class BugPredictor(nn.Module):
                 time.sleep(2)
         self.dropout = nn.Dropout(0.1)
         
+        # Freeze all CodeBERT layers except last 2 encoder layers
+        for param in self.codebert.parameters():
+            param.requires_grad = False
+        # Unfreeze last 2 encoder layers
+        for layer in self.codebert.encoder.layer[-2:]:
+            for param in layer.parameters():
+                param.requires_grad = True
+        # Unfreeze pooler
+        if hasattr(self.codebert, 'pooler') and self.codebert.pooler is not None:
+            for param in self.codebert.pooler.parameters():
+                param.requires_grad = True
+        
         # Classification head
         self.classifier = nn.Sequential(
             nn.Linear(self.codebert.config.hidden_size, 512),
@@ -62,10 +74,8 @@ class BugPredictor(nn.Module):
         
         loss = None
         if labels is not None:
-            # Weight buggy class (label 1) higher to handle imbalance
-            # Suggested weight: 3.0
-            weights = torch.tensor([1.0, 3.0]).to(self.classifier[0].weight.device)
-            loss_fct = nn.CrossEntropyLoss(weight=weights)
+            # Equal weights for balanced dataset
+            loss_fct = nn.CrossEntropyLoss()
             loss = loss_fct(logits, labels)
         
         return {
@@ -158,7 +168,7 @@ class BugPredictionTrainer:
                 )
                 
                 logits = outputs['logits']
-                probs = torch.sigmoid(logits[:, 1])
+                probs = torch.softmax(logits, dim=1)[:, 1]
                 all_probs.extend(probs)
                 preds = torch.argmax(logits, dim=1)
                 
@@ -224,7 +234,10 @@ class BugPredictionTrainer:
             history.append({
                 'epoch': epoch,
                 'train_loss': train_loss,
-                **val_metrics
+                'precision': val_metrics['precision'],
+                'recall': val_metrics['recall'],
+                'f1': val_metrics['f1'],
+                'threshold': float(val_metrics['threshold']),
             })
             
             # Always save latest model
@@ -259,10 +272,10 @@ class BugPredictionTrainer:
 
 # Training configuration
 CONFIG = {
-    'batch_size': 16,
-    'learning_rate': 2e-5,
-    'epochs': 5,
-    'max_length': 512,
+    'batch_size': 4,
+    'learning_rate': 3e-5,
+    'epochs': 8,
+    'max_length': 256,
     'weight_decay': 0.01
 }
 
