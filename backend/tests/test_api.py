@@ -1,6 +1,19 @@
 from fastapi.testclient import TestClient
 from app.main import app
+from app.auth.routes import get_current_active_user
+from app.auth.models import User
 import pytest
+
+# Mock an authenticated user
+async def override_get_current_active_user():
+    return User(
+        username="testuser",
+        email="test@example.com",
+        full_name="Test User",
+        is_admin=False
+    )
+
+app.dependency_overrides[get_current_active_user] = override_get_current_active_user
 
 client = TestClient(app)
 

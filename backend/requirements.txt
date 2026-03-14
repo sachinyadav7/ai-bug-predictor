@@ -21,3 +21,5 @@ google-auth
 google-auth-oauthlib
 google-auth-httplib2
 requests
+pytest
+httpx<0.28.0

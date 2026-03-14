@@ -43,4 +43,4 @@ jobs:
       - name: Run Pytest
         run: |
           # This runs all backend tests using pytest
-          pytest tests/ || echo "Pytest failed but skipping hard fail to allow PR creation initially"
+          PYTHONPATH=. pytest tests/ || echo "Pytest failed but skipping hard fail to allow PR creation initially"
