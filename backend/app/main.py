@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from app.api.routes import predict, batch, health, dashboard
+from app.api.routes import predict, batch, health, dashboard, history
 from app.auth.routes import router as auth_router
 from app.core.model import model_manager
 import uvicorn
@@ -29,7 +29,7 @@ app = FastAPI(
 # CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Configure for production
+    allow_origins=["*"], # Allow all origins for the Vercel app to connect
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -40,6 +40,7 @@ app.include_router(health.router, prefix="/health", tags=["Health"])
 app.include_router(predict.router, prefix="/api/v1", tags=["Prediction"])
 app.include_router(batch.router, prefix="/api/v1", tags=["Batch"])
 app.include_router(dashboard.router, prefix="/api/v1/dashboard", tags=["Dashboard"])
+app.include_router(history.router, prefix="/api/v1/history", tags=["History"])
 app.include_router(auth_router, prefix="/api/auth", tags=["Authentication"])
 
 @app.get("/")
