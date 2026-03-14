@@ -1,15 +1,45 @@
 import torch
+import torch.nn as nn
 import os
 from typing import Dict, List, Tuple, Optional
-from transformers import RobertaTokenizer
-import sys
-# Assuming we run from backend/ directory, '..' puts us in project root where 'model' package is.
-sys.path.append('..')
-try:
-    from model.train import BugPredictor  # Import from training code
-except ImportError:
-    # Fallback if running from root
-    from model.train import BugPredictor
+from transformers import RobertaTokenizer, RobertaModel
+
+class BugPredictor(nn.Module):
+    def __init__(self, codebert_model="microsoft/codebert-base", num_labels=2):
+        super().__init__()
+        max_retries = 5
+        for attempt in range(max_retries):
+            try:
+                self.codebert = RobertaModel.from_pretrained(codebert_model)
+                break
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise e
+                import time
+                time.sleep(2)
+        self.dropout = nn.Dropout(0.1)
+        
+        self.classifier = nn.Sequential(
+            nn.Linear(self.codebert.config.hidden_size, 512),
+            nn.ReLU(),
+            nn.Dropout(0.1),
+            nn.Linear(512, num_labels)
+        )
+    
+    def forward(self, input_ids, attention_mask, labels=None):
+        outputs = self.codebert(
+            input_ids=input_ids,
+            attention_mask=attention_mask
+        )
+        pooled_output = outputs.last_hidden_state[:, 0, :]
+        pooled_output = self.dropout(pooled_output)
+        logits = self.classifier(pooled_output)
+        
+        return {
+            'logits': logits,
+            'hidden_states': outputs.last_hidden_state,
+            'attentions': getattr(outputs, 'attentions', None)
+        }
 
 class ModelManager:
     _instance = None
@@ -38,7 +68,7 @@ class ModelManager:
             checkpoint = torch.load(model_path, map_location=self._device, weights_only=False)
             self._model.load_state_dict(checkpoint['model_state_dict'])
             # Load threshold if available, else default to 0.5
-            self._threshold = checkpoint.get('threshold', 0.5)
+            self._threshold = 0.5 # Forced to 0.5 for balanced live testing predictions
             print(f"Model loaded with threshold: {self._threshold}")
         else:
             # STOP! Do not use random weights.
@@ -146,19 +176,21 @@ class ModelManager:
             (r'token\s*=\s*[\'"].+[\'"]', 'Hardcoded API Token', 0.92),
             
             # User Annotations (The user knows best!)
-            (r'//\s*BUG', 'Explicit Bug Annotation', 1.0),
-            (r'//\s*FIXME', 'FIXME Annotation', 0.80),
-            (r'TODO:', 'Pending TODO', 0.30),
+            (r'(?://|#)\s*BUG', 'Explicit Bug Annotation', 1.0),
+            (r'(?://|#)\s*FIXME', 'FIXME Annotation', 0.80),
+            (r'(?://|#)\s*TODO:', 'Pending TODO', 0.30),
         ]
         
         risk_tokens = []
         max_conf = 0
         
-        for pattern, name, conf in patterns:
-            # Case insensitive for some? No, code is case sensitive usually.
-            if re.search(pattern, code):
-                max_conf = max(max_conf, conf)
-                risk_tokens.append({'token': name})
+        lines = code.split('\n')
+        
+        for i, line in enumerate(lines):
+            for pattern, name, conf in patterns:
+                if re.search(pattern, line):
+                    max_conf = max(max_conf, conf)
+                    risk_tokens.append({'token': name, 'line': i}) # 0-indexed relative line
                 
         if max_conf > 0.4: # Only return if confidence is significant
             return {
