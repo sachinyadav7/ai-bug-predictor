@@ -1,7 +1,11 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
-from app.api.routes import predict, batch, health, dashboard, history
+from app.api.routes.health import router as health_router
+from app.api.routes.predict import router as predict_router
+from app.api.routes.batch import router as batch_router
+from app.api.routes.dashboard import router as dashboard_router
+from app.api.routes.history import router as history_router
 from app.auth.routes import router as auth_router
 from app.core.model import model_manager
 import uvicorn
@@ -36,11 +40,11 @@ app.add_middleware(
 )
 
 # Routes
-app.include_router(health.router, prefix="/health", tags=["Health"])
-app.include_router(predict.router, prefix="/api/v1", tags=["Prediction"])
-app.include_router(batch.router, prefix="/api/v1", tags=["Batch"])
-app.include_router(dashboard.router, prefix="/api/v1/dashboard", tags=["Dashboard"])
-app.include_router(history.router, prefix="/api/v1/history", tags=["History"])
+app.include_router(health_router, prefix="/health", tags=["Health"])
+app.include_router(predict_router, prefix="/api/v1", tags=["Prediction"])
+app.include_router(batch_router, prefix="/api/v1", tags=["Batch"])
+app.include_router(dashboard_router, prefix="/api/v1/dashboard", tags=["Dashboard"])
+app.include_router(history_router, prefix="/api/v1/history", tags=["History"])
 app.include_router(auth_router, prefix="/api/auth", tags=["Authentication"])
 
 @app.get("/")
