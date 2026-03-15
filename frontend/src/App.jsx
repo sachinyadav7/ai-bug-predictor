@@ -6,6 +6,7 @@ import Dashboard from './pages/Dashboard';
 import Analyze from './pages/Analyze';
 import History from './pages/History';
 import Settings from './pages/Settings';
+import Profile from './pages/Profile';
 import Login from './pages/Login';
 
 const ProtectedRoute = () => {
@@ -25,6 +26,7 @@ function App() {
                         <Route path="/analyze" element={<Analyze />} />
                         <Route path="/history" element={<History />} />
                         <Route path="/settings" element={<Settings />} />
+                        <Route path="/profile" element={<Profile />} />
                     </Route>
                 </Routes>
             </AuthProvider>
