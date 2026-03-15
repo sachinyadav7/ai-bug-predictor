@@ -9,19 +9,17 @@ export default {
             colors: {
                 bg: 'var(--bg-color)',
                 surface: 'var(--surface-color)',
-                primary: 'var(--primary-color)',
+                primary: '#89b4fa',
                 secondary: 'var(--secondary-color)',
                 text: 'var(--text-color)',
-                'text-secondary': 'var(--text-secondary)',
+                'text-secondary': '#a6adc8',
                 border: 'var(--border-color)',
-                'surface-hover': '#32324a',     // Panel hover
-                'text-secondary': '#a6adc8',    // Secondary text
-                primary: '#89b4fa',             // Accent/Primary (blue)
+                'surface-hover': '#32324a',
                 'primary-hover': '#b4befe',
-                success: '#a6e3a1',             // Green
-                warning: '#f9e2af',             // Yellow
-                danger: '#f38ba8',              // Red
-                accent: '#cba6f7',              // Purple accent
+                success: '#a6e3a1',
+                warning: '#f9e2af',
+                danger: '#f38ba8',
+                accent: '#cba6f7',
             }
         },
     },
